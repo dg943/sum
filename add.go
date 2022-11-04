@@ -1,5 +1,5 @@
 package sum
 
-func addition(a, b int) (int, error) {
+func Addition(a, b int) (int, error) {
 	return a + b, nil
 }
